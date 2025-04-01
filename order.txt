@@ -2,9 +2,6 @@
 
 <body>
 
-
-
-
 <?phpinclude('navbar.php');?>
 
 <divclass="container">
@@ -72,10 +69,6 @@ $iterate++;
 </tbody>
 
 </table>
-
-
-
-
 <divclass="row">
 
 <divclass="col-md-3">
